@@ -1,6 +1,10 @@
-Usage example: `python3 QRBelarusian.py http://youtu.be/sTynqsTE3ss` produces a local file `httpyoutu.besTynqsTE3ss.svg` (slashes, colons stripped) containing: 
+<img width="300px;" src="httpyoutu.besTynqsTE3ss.svg" alt="Жалуды Дарафеева|Acorns, by Darafiejeva">
 
-<img width="300px;" src="httpyoutu.besTynqsTE3ss.svg" alt="Жалуды Дарафеева|Acorns, by Darafiejeva">. Visit link: [http://youtu.be/sTynqsTE3ss](http://youtu.be/sTynqsTE3ss)
+Usage example: `python3 QRBelarusian.py http://youtu.be/sTynqsTE3ss` produces a local file `httpyoutu.besTynqsTE3ss.svg` (slashes, colons stripped) containing the image above.
+
+Прыклад выкарыстання: `python3 QRBelarusian.py http://youtu.be/sTynqsTE3ss` стварае лакальны файл  `httpyoutu.besTynqsTE3ss.svg` (з імя выдаленыя слэшы, двукроп'і) з выявай вышэй.
+
+Visit link || Перайсці па спасылцы: [http://youtu.be/sTynqsTE3ss](http://youtu.be/sTynqsTE3ss)
 
 # QRBelarusian
 
