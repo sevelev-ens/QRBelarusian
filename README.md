@@ -1,6 +1,6 @@
 Usage example: `python3 QRBelarusian http://youtu.be/sTynqsTE3ss` produces a local file `http:youtu.besTynqsTE3ss.svg` (slashes stripped) containing: 
 
-![Жалуды Дарафеева|Acorns, by Darafiejeva](http:youtu.besTynqsTE3ss.svg)
+![Жалуды Дарафеева|Acorns, by Darafiejeva](httpyoutu.besTynqsTE3ss.svg)
 
 # QRBelarusian
 
