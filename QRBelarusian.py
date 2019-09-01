@@ -58,6 +58,6 @@ for (x,y) in zip(addx,addy):
 
 
 filename="/home/maxwell/Desktop/web app/svg/"+"temp.svg"
-with open(sys.argv[1].replace("/","")+".svg", "w") as fout:
+with open(sys.argv[1].replace("/","").replace(":","")+".svg", "w") as fout:
     fout.write(line0+"\n".join(internallines)+linem1)
 
