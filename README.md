@@ -1,4 +1,4 @@
-Usage example: `python3 QRBelarusian http://youtu.be/sTynqsTE3ss` produces a local file `http:youtu.besTynqsTE3ss.svg` (slashes stripped) containing: 
+Usage example: `python3 QRBelarusian [http://youtu.be/sTynqsTE3ss](http://youtu.be/sTynqsTE3ss)` produces a local file `http:youtu.besTynqsTE3ss.svg` (slashes stripped) containing: 
 
 <img width="300px;" src="httpyoutu.besTynqsTE3ss.svg" alt="Жалуды Дарафеева|Acorns, by Darafiejeva">
 
