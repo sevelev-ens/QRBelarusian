@@ -53,11 +53,6 @@ for (x,y) in zip(addx,addy):
     internallines+=['<rect x="{:.1f}" y="{:.1f}" width="{:.1f}" height="{:.1f}" fill="black" stroke-width="0"/>'.format(x*coarse_out,y*coarse_out,coarse_out,coarse_out)]
 #############################################
 
-
-# In[122]:
-
-
-filename="/home/maxwell/Desktop/web app/svg/"+"temp.svg"
 with open(sys.argv[1].replace("/","").replace(":","")+".svg", "w") as fout:
     fout.write(line0+"\n".join(internallines)+linem1)
 
