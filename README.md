@@ -10,7 +10,11 @@ Visit link || Перайсці па спасылцы: [https://youtu.be/sTynqsTE
 
 Produces a QR-code with Belarusian decorative ornament pattern based on the three-flowered pattern (highlighted with yellow glow in the picture) “The Tree of Life” of the Belarusian embroidery protocol.
 
+See in [action here](https://seveleu.com/qr/converter).
+
 # Беларускі QR код
 Выконвае код хуткага водгуку (QR) на падставе беларускага вышывальнага арнаменту і трохкветкавага  ўзору (выпуклены жоўтым ззяннем на малюнку) вышывальнага строю «Дрэва жыцця» (больш у [Кацара](https://knihi.com/Michail_Kacar/Bielaruski_arnamient_Tkactva_Vysyuka.html#124)). 
+
+У [дзеянні тут](https://seveleu.com/qr/converter-be).
 
 ![Дрэва жыцця | The Tree of Life](dreva-zyćcia.png)
