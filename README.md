@@ -4,7 +4,7 @@ Usage example: `python3 QRBelarusian.py http://youtu.be/sTynqsTE3ss` produces a 
 
 Прыклад выкарыстання: `python3 QRBelarusian.py http://youtu.be/sTynqsTE3ss` стварае лакальны файл  `httpyoutu.besTynqsTE3ss.svg` (з імя выдаленыя слэшы, двукроп'і) з выявай вышэй.
 
-Visit link || Перайсці па спасылцы: [http://youtu.be/sTynqsTE3ss](http://youtu.be/sTynqsTE3ss)
+Visit link || Перайсці па спасылцы: [https://youtu.be/sTynqsTE3ss](https://youtu.be/sTynqsTE3ss)
 
 # QRBelarusian
 
